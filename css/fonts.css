@@ -1,0 +1,46 @@
+@font-face {
+    font-family: SourceSansPro-Regular;
+    src: url(../fonts/sourcesansproregular.eot);
+    src: url(../fonts/sourcesansproregular.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/sourcesansproregular.woff),
+        url(../fonts/sourcesansproregular.svg),
+        url(../fonts/sourcesansproregular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: SourceSansPro-Bold;
+    src: url(../fonts/sourcesansprobold.eot);
+    src: url(../fonts/sourcesansprobold.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/sourcesansprobold.woff),
+    url(../fonts/sourcesansprobold.svg),
+    url(../fonts/sourcesansprobold.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Lato-Bold;
+    src: url(../fonts/lato-bold.eot);
+    src: url(../fonts/lato-bold.eot?#iefix) format('embedded-opentype'),
+         url(../fonts/lato-bold.svg),
+         url(../fonts/lato-bold.woff),
+         url(../fonts/lato-bold.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font__type__sourcesanspro__regular {
+    font-family: SourceSansPro-Regular;
+}
+
+.font__type__sourcesanspro__bold{
+    font-family: SourceSansPro-Bold;
+}
+
+.font__type__lato__bold{
+    font-family: Lato-Bold;
+}
+
+

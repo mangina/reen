@@ -1,0 +1,65 @@
+#the_share {
+    text-align:center;
+}
+
+#the_share .b-share {
+    height:40px;
+}
+
+#the_share .b-share-icon_yaru,
+#the_share .b-share-icon_facebook,
+#the_share .b-share-icon_gplus,
+#the_share .b-share-icon_twitter,
+#the_share .b-share-icon_vkontakte,
+#the_share .b-share-icon_diary,
+#the_share .b-share-icon_blogger {
+    width:30px;
+    height:40px;
+    display:block;
+    background:url(../img/icon-social.png) no-repeat;
+}
+
+#the_share .b-share-icon_yaru:hover,
+#the_share .b-share-icon_facebook:hover,
+#the_share .b-share-icon_gplus:hover,
+#the_share .b-share-icon_twitter:hover,
+#the_share .b-share-icon_vkontakte:hover,
+#the_share .b-share-icon_diary:hover,
+#the_share .b-share-icon_blogger:hover {
+    width:30px;
+    height:40px;
+    display:block;
+    background:url(../img/icon-social-hover.png) no-repeat;
+}
+
+#the_share .b-share .b-share__handle {
+    padding:0!important;
+}
+
+#the_share .b-share-icon_yaru {
+    background-position:0 -100px;
+}
+
+#the_share .b-share-icon_facebook, #the_share .b-share-icon_facebook:hover {
+    background-position:0 -80px;
+}
+
+#the_share .b-share-icon_gplus, #the_share .b-share-icon_gplus:hover  {
+    background-position:0 -120px;
+}
+
+#the_share .b-share-icon_twitter, #the_share .b-share-icon_twitter:hover  {
+    background-position:0 -200px;
+}
+
+#the_share .b-share-icon_vkontakte, #the_share .b-share-icon_vkontakte:hover  {
+    background-position:0 -160px;
+}
+
+#the_share .b-share-icon_diary, #the_share .b-share-icon_diary:hover  {
+    background-position: 0 0;
+}
+
+#the_share .b-share-icon_blogger, #the_share .b-share-icon_blogger:hover  {
+    background-position: 0 -40px;
+}
