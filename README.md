@@ -1,5 +1,8 @@
 # reen
 
+Ссылка на gh-pages: http://mangina.github.io/reen
+Ссылка на psd: https://yadi.sk/i/_NPwfHdaiKkpJ
+
 Поправить:
 
 * Добавить в ридми ссылку на gh-pages
