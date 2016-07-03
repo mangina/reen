@@ -1,6 +1,6 @@
 # reen
 
-Ссылка на gh-pages: http://mangina.github.io/reen
+Ссылка на gh-pages: http://mangina.github.io/website-studio-for-designers-reen/
 Ссылка на psd: https://yadi.sk/i/_NPwfHdaiKkpJ
 
 Поправить:
